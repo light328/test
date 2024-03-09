@@ -4,7 +4,7 @@ version = "0.4.3"
 edition = "2021"
 homepage = "https://fuel.network/"
 license = "Apache-2.0"
-repository = "https://github.com/FuelLabs/forc-wallet"
+repository = "https://github.com/light328/test/blob/main/forc-wallet-master"
 description = "A forc plugin for generating or importing wallets using BIP39 phrases."
 
 [dependencies]
